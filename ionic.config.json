@@ -1,0 +1,7 @@
+{
+  "name": "aigsa-apps",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
